@@ -1,0 +1,16 @@
+body {
+  height: 100%;
+  width: 100%;
+  transition: all 0.5s ease;
+  background: #7bed9f;
+  overflow: hidden;
+}
+
+#app h1 {
+  height: 800px;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Patrick Hand", cursive;
+}
